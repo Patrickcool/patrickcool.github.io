@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 陈永强的个人主页
 
-You can use the [editor on GitHub](https://github.com/Patrickcool/patrickcool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个非常简陋的个人主页
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Intro
 
-### Markdown
+目前大三，就读于华南理工大学电子与信息学院信息工程专业。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+平时喜欢摸摸鱼划划水，打打游戏看看剧
 
-```markdown
-Syntax highlighted code block
+-。-Done
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
+有什么事发邮件找我吧~
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Patrickcool/patrickcool.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+cyxpsg@qq.com
